@@ -1,0 +1,2 @@
+# Majster
+Rzeczy do magisterki
